@@ -13,4 +13,4 @@ npm run dev
 ```
 
 
-live DEMO => [click here](https://hangman-assembly.netlify.app/)
+:tada::tada:live DEMO => [click here](https://hangman-assembly.netlify.app/)
