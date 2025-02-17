@@ -1,10 +1,16 @@
-# React + Vite
+### 1️⃣ 啟動專案 
+- 使用以下指令clone專案：
+```
+git clone https://github.com/ileneh889/e_game_website.git
+```
+- 開啟專案進到terminal，安裝dependencies：
+```
+npm install
+```
+- 啟動前端服務：
+```
+npm run dev
+```
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
 live DEMO => [click here](https://hangman-assembly.netlify.app/)
