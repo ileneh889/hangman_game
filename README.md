@@ -1,7 +1,7 @@
 ### 1️⃣ 啟動專案 
 - 使用以下指令clone專案：
 ```
-git clone https://github.com/ileneh889/e_game_website.git
+git clone https://github.com/ileneh889/hangman_game.git
 ```
 - 開啟專案進到terminal，安裝dependencies：
 ```
